@@ -40,6 +40,6 @@ Ingresar al campo laboral como desarrollador de software, aportando con lo que s
 
 ---
 
- **Contacto:** vareeth227@github &nbsp;| be.penag@duocuc.cl &nbsp;| &nbsp; 🇨🇱 Chile
+vareeth227@github &nbsp;| be.penag@duocuc.cl &nbsp;| &nbsp; 🇨🇱 Chile
 
 </div>
